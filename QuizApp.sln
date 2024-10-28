@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApp", "QuizApp\QuizApp.csproj", "{430EFFDA-7E01-48D4-BB4B-C48A28F18991}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApp.Tests", "QuizApp.Tests\QuizApp.Tests.csproj", "{D793FDAA-8F10-484A-9089-53C3FAA02C81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{430EFFDA-7E01-48D4-BB4B-C48A28F18991}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{430EFFDA-7E01-48D4-BB4B-C48A28F18991}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{430EFFDA-7E01-48D4-BB4B-C48A28F18991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D793FDAA-8F10-484A-9089-53C3FAA02C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D793FDAA-8F10-484A-9089-53C3FAA02C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D793FDAA-8F10-484A-9089-53C3FAA02C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D793FDAA-8F10-484A-9089-53C3FAA02C81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

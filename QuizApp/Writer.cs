@@ -1,5 +1,5 @@
-
-class Writer
+namespace QuizApp;
+public class Writer
 {
     public ConsoleColor ErrorColor { get; init; } = ConsoleColor.Red;
     public ConsoleColor WarningColor { get; init; } = ConsoleColor.Yellow;

@@ -1,6 +1,6 @@
 namespace QuizApp;
 
-class Game
+public class Game
 {
     private int _score = 0; //Private int field to store user's score
     private readonly IEnumerable<Question> _questions; //Stores the questions
