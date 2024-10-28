@@ -1,0 +1,72 @@
+[
+    {
+        "QuestionText": "What is the largest planet in our solar system?",
+        "Options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "CorrectOption": 2
+    },
+    {
+        "QuestionText": "Who wrote the play 'Romeo and Juliet'?",
+        "Options": [
+            "Charles Dickens",
+            "Mark Twain",
+            "William Shakespeare",
+            "Ernest Hemingway"
+        ],
+        "CorrectOption": 2
+    },
+    {
+        "QuestionText": "What is the currency used in Japan?",
+        "Options": [
+            "Yen",
+            "Won",
+            "Dollar",
+            "Euro"
+        ],
+        "CorrectOption": 0
+    },
+    {
+        "QuestionText": "Which planet is known as the Red Planet?",
+        "Options": [
+            "Mercury",
+            "Mars",
+            "Venus",
+            "Jupiter"
+        ],
+        "CorrectOption": 1
+    },
+    {
+        "QuestionText": "How many continents are there on Earth?",
+        "Options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "CorrectOption": 2
+    },
+    {
+        "QuestionText": "Which animal is known for its ability to change color?",
+        "Options": [
+            "Octopus",
+            "Chameleon",
+            "Frog",
+            "Snake"
+        ],
+        "CorrectOption": 1
+    },
+    {
+        "QuestionText": "Who painted the Mona Lisa?",
+        "Options": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Claude Monet"
+        ],
+        "CorrectOption": 2
+    }
+]
